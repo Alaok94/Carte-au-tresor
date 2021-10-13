@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMMqjxScXAKvUXBiSex+Wo8f2MTZwmwGMpDlTX3ep9KtyMfmWBIwEgta32hF1EYFTU9U2hWvpZw0Lo4tN4PJOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\Modules\\Modules.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guill\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

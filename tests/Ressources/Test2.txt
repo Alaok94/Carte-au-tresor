@@ -1,0 +1,16 @@
+C - 20 - 25
+M - 10 - 11
+M - 14 - 13
+T - 1 - 0 - 2
+T - 2 - 0 - 1
+T - 2 - 1 - 2
+T - 2 - 2 - 1
+T - 12 - 11 - 2
+T - 16 - 19 - 1
+T - 2 - 5 - 2
+T - 1 - 24 - 1
+# {A comme Aventurier} - {Nom de l’aventurier} - {Axe horizontal} - {Axevertical} - {Orientation} - {Séquence de mouvement}
+A - Indiana -0 - 0 - E - AADAAGAGAG
+A - Jones - 10 - 10 - S - AGADAGA
+A - Morane - 10 - 9 - S - AAAADAAGAG
+A - Bob - 9 - 9 - E - AGGDDAA

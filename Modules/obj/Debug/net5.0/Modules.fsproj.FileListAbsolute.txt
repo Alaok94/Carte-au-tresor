@@ -1,0 +1,8 @@
+C:\Users\guill\Desktop\projet\fsharp\Carte au tresor\Modules\bin\Debug\net5.0\Modules.deps.json
+C:\Users\guill\Desktop\projet\fsharp\Carte au tresor\Modules\bin\Debug\net5.0\Modules.dll
+C:\Users\guill\Desktop\projet\fsharp\Carte au tresor\Modules\bin\Debug\net5.0\Modules.pdb
+C:\Users\guill\Desktop\projet\fsharp\Carte au tresor\Modules\obj\Debug\net5.0\Modules.fsprojAssemblyReference.cache
+C:\Users\guill\Desktop\projet\fsharp\Carte au tresor\Modules\obj\Debug\net5.0\Modules.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\projet\fsharp\Carte au tresor\Modules\obj\Debug\net5.0\Modules.AssemblyInfo.fs
+C:\Users\guill\Desktop\projet\fsharp\Carte au tresor\Modules\obj\Debug\net5.0\Modules.dll
+C:\Users\guill\Desktop\projet\fsharp\Carte au tresor\Modules\obj\Debug\net5.0\Modules.pdb

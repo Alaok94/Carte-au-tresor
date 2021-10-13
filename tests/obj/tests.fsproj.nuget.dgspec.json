@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\tests\\tests.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\Modules\\Modules.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\Modules\\Modules.fsproj",
+        "projectName": "Modules",
+        "projectPath": "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\Modules\\Modules.fsproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\Modules\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0-beta.*, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\tests\\tests.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\tests\\tests.fsproj",
+        "projectName": "tests",
+        "projectPath": "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\tests\\tests.fsproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\Modules\\Modules.fsproj": {
+                "projectPath": "C:\\Users\\guill\\Desktop\\projet\\fsharp\\Carte au tresor\\Modules\\Modules.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0-beta.*, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )",
+              "generatePathProperty": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )",
+              "generatePathProperty": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
